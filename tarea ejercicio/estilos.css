@@ -26,7 +26,7 @@ body {
 }
 
  .logos-container img {
-            max-width: 2300px; /* Ajusta el tamaño según necesites */
+            max-width: 2300px; 
             height: auto;
 }
 
@@ -34,6 +34,6 @@ body {
             display: flex;
             justify-content: center;
             align-items: center;
-            gap: 20px; /* Espacio entre los logos */  
+            gap: 20px; /
 
 }
